@@ -1,0 +1,7 @@
+C:\Users\Sahrul\source\repos\Menu Pesanan\Menu Pesanan\bin\Debug\Menu Pesanan.exe.config
+C:\Users\Sahrul\source\repos\Menu Pesanan\Menu Pesanan\bin\Debug\Menu Pesanan.exe
+C:\Users\Sahrul\source\repos\Menu Pesanan\Menu Pesanan\bin\Debug\Menu Pesanan.pdb
+C:\Users\Sahrul\source\repos\Menu Pesanan\Menu Pesanan\obj\Debug\Menu Pesanan.csproj.AssemblyReference.cache
+C:\Users\Sahrul\source\repos\Menu Pesanan\Menu Pesanan\obj\Debug\Menu Pesanan.csproj.CoreCompileInputs.cache
+C:\Users\Sahrul\source\repos\Menu Pesanan\Menu Pesanan\obj\Debug\Menu Pesanan.exe
+C:\Users\Sahrul\source\repos\Menu Pesanan\Menu Pesanan\obj\Debug\Menu Pesanan.pdb
